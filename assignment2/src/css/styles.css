@@ -1,0 +1,47 @@
+.body{
+    align-content: center;
+    padding-top: 10%;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+
+}
+
+.title{
+    font-size: 30px;
+    font-weight: 700;
+    color: #6096B4;
+}
+
+
+p{
+    font-size: 14px;
+}
+
+a{
+    text-decoration: none;
+    color: #6096B4;
+    font-weight: 600;
+}
+
+a:hover{
+    color: #93BFCF;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    font-size: 18px;
+}
+
+th, td{
+    padding: 4px 20px;
+}
+
+th{
+    color: #6096B4;
+}
+
+p, td{
+    color: #11324D;
+}
